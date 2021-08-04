@@ -15,17 +15,17 @@ The challenge was to compute some metrics on a database :
 
 Everything can be found in the file __main__.py. This file is organized in four sections (0 to 3) :
 
-Section 0 : IMPORTS AND CONNECTION TO DATABASE
-Section 1 : NUMBER OF LISTENERS BY MUSIC
-Section 2 : AVERAGE AGE BY MUSIC
-Section 3 : PYRAMID AGE
+- Section 0 : IMPORTS AND CONNECTION TO DATABASE
+- Section 1 : NUMBER OF LISTENERS BY MUSIC
+- Section 2 : AVERAGE AGE BY MUSIC
+- Section 3 : PYRAMID AGE
 
 Functions are explained by comments and explicit variables.
 Answers to questions can be found by computing functions in the different sections. After each of these functions, I put an example that can be freely executed and modified (no need for functions requiring no argument) by removing the hastag.
 
-Section 1 : numberOfListenersByMusic (no argument) and displayNumberOfListenersByMusic (no argument) which compute the number of listeners by music
-Section 2 : averageAgeByMusic (no argument) and displayAverageAgeByMusic (no argument) which compute the average age by music
-Section 3 : pyramidAge (arguments : city, slice) and displayAverageAge (arguments : city, slice) which compute the pyramid age for the city
+- Section 1 : numberOfListenersByMusic (no argument) and displayNumberOfListenersByMusic (no argument) which compute the number of listeners by music
+- Section 2 : averageAgeByMusic (no argument) and displayAverageAgeByMusic (no argument) which compute the average age by music
+- Section 3 : pyramidAge (arguments : city, slice) and displayAverageAge (arguments : city, slice) which compute the pyramid age for the city
 
 REMARKS :
 
